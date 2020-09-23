@@ -5,7 +5,7 @@ int main(void){
     char nombre[100];
     unsigned int edad;
 
-    printf("Hola mundo :D\n");
+    /*printf("Hola mundo :D\n");*/
     
     printf("Nombre:    ");
     fgets(nombre, sizeof(nombre), stdin);
